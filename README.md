@@ -17,7 +17,7 @@ Features extracted using TBN[1] can be found at this [link]() (~10GB). Inside th
 
 Each represents a python dictionary containing the 'RGB', 'Flow' and 'Audio' features as a matrix of size nx25x1024 where n is the number of videos (67,217/9,668). The ordering of the videos is the same as in EPIC_100_retrieval_train.pkl and EPIC_100_retrieval_test.pkl found in the EPIC-KITCHENS-100 repo.
 
-Temporally grouped features (mean/max) can be found in the data folder [here](https://www.dropbox.com/home/C5-Multi-Instance-Retrieval).
+Temporally grouped features (mean/max) can be found in the data folder [here](https://www.dropbox.com/s/bs6y50xkl1rbe20/JPoSE_data.zip?dl=0).
 
 ## Training and Evaluation
 
