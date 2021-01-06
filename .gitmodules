@@ -1,0 +1,3 @@
+[submodule "Joint-Part-of-Speech-Embeddings"]
+	path = Joint-Part-of-Speech-Embeddings
+	url = git@github.com:mwray/Joint-Part-of-Speech-Embeddings.git
