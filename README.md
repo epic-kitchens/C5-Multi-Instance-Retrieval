@@ -8,7 +8,7 @@ Full information about how to use the code can be found [here](https://github.co
 
 ## Trained Models
 
-Trained models can be found within `data/models` for both MLP and JPoSE by downloading the data folder [here](https://www.dropbox.com/home/C5-Multi-Instance-Retrieval).
+Trained models can be found within `data/models` for both MLP and JPoSE by downloading the data folder [here](https://www.dropbox.com/s/bs6y50xkl1rbe20/JPoSE_data.zip?dl=0).
 These were trained using PyTorch with the arguments within the `args.txt` files.
 
 ## Video Features
