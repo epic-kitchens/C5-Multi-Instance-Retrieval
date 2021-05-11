@@ -4,12 +4,14 @@ Train/Test splits for the Multi-Instance Retrieval Challenge are available [here
 
 To participate and submit results to the challenge, refer to the [Multi-Instance Retrieval Codalab Challenge](https://competitions.codalab.org/competitions/26138)
 
-Full information about how to use the code can be found [here](https://github.com/mwray/Joint-Part-of-Speech-Embeddings).
+Full information about how to use the jPoSE and MI-MM codes can be found [here](https://github.com/mwray/Joint-Part-of-Speech-Embeddings) and [here](https://github.com/adrianofragomeni/MI-MM),respectively.
 
 ## Trained Models
 
 Trained models can be found within `data/models` for both MLP and JPoSE by downloading the data folder [here](https://www.dropbox.com/s/bs6y50xkl1rbe20/JPoSE_data.zip?dl=0).
 These were trained using PyTorch with the arguments within the `args.txt` files.
+
+Trained models can be found within `data/models` for MI-MM by downloading the data folder [here](https://www.dropbox.com/home/MI-MM).
 
 ## Video Features
 
@@ -19,8 +21,10 @@ Each represents a python dictionary containing the 'RGB', 'Flow' and 'Audio' fea
 
 Temporally grouped features (mean/max) can be found in the data folder [here](https://www.dropbox.com/s/bs6y50xkl1rbe20/JPoSE_data.zip?dl=0).
 
+Features extracted using S3D trained on HowTo100M can be found within `data/features` by downloading the data folder [here](https://www.dropbox.com/home/MI-MM).
+
 ## Training and Evaluation
 
-Information for training and evaluating models can be found in the [JPoSE repo](https://github.com/mwray/Joint-Part-of-Speech-Embeddings), including how to generate a submission file for the codalab challenge.
+Information for training and evaluating models can be found in the [JPoSE repo](https://github.com/mwray/Joint-Part-of-Speech-Embeddings) and [MI-MM repo](https://github.com/adrianofragomeni/MI-MM), including how to generate a submission file for the codalab challenge.
 
 
