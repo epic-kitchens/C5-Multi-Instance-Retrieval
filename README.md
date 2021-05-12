@@ -5,6 +5,7 @@ Train/Test splits for the Multi-Instance Retrieval Challenge are available [here
 To participate and submit results to the challenge, refer to the [Multi-Instance Retrieval Codalab Challenge](https://competitions.codalab.org/competitions/26138)
 
 Full information about how to use the jPoSE code can be found [here](https://github.com/mwray/Joint-Part-of-Speech-Embeddings).
+
 Full information about how to use the MI-MM code can be found [here](https://github.com/adrianofragomeni/MI-MM).
 
 ## Trained Models
