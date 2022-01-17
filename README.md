@@ -2,7 +2,7 @@
 
 Train/Test splits for the Multi-Instance Retrieval Challenge are available [here](https://github.com/epic-kitchens/epic-kitchens-100-annotations/tree/master/retrieval_annotations)
 
-To participate and submit results to the challenge, refer to the [Multi-Instance Retrieval Codalab Challenge](https://competitions.codalab.org/competitions/26138)
+To participate and submit results to the challenge, refer to the [Multi-Instance Retrieval Codalab Challenge](https://codalab.lisn.upsaclay.fr/competitions/617)
 
 Full information about how to use the jPoSE code can be found [here](https://github.com/mwray/Joint-Part-of-Speech-Embeddings).
 
