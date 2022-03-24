@@ -17,7 +17,7 @@ Trained models can be found within `data/models` for MI-MM by downloading the da
 
 ## Video Features
 
-Features extracted using TBN[1] can be found at this [link]() (~10GB). Inside the zip are two files, train.pkl and test.pkl. Both are pickle files containing the features for the Multi-Instance Retrieval train and test splits respectively.
+Features extracted using TBN[1] can be found at on dropbox separated for [train](https://www.dropbox.com/s/41pgqys8e9i2rjh/features_train.pkl?dl=0) and [test](https://www.dropbox.com/s/1kereto93y09ecz/features_test.pkl?dl=0) (~10GB). Both are pickle files containing the features for the Multi-Instance Retrieval train and test splits respectively.
 
 Each represents a python dictionary containing the 'RGB', 'Flow' and 'Audio' features as a matrix of size nx25x1024 where n is the number of videos (67,217/9,668). The ordering of the videos is the same as in EPIC_100_retrieval_train.pkl and EPIC_100_retrieval_test.pkl found in the EPIC-KITCHENS-100 repo.
 
