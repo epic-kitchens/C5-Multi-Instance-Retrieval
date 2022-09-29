@@ -13,7 +13,7 @@ Full information about how to use the MI-MM code can be found [here](https://git
 Trained models can be found within `data/models` for both MLP and JPoSE by downloading the data folder [here](https://www.dropbox.com/s/bs6y50xkl1rbe20/JPoSE_data.zip?dl=0).
 These were trained using PyTorch with the arguments within the `args.txt` files.
 
-Trained models can be found within `data/models` for MI-MM by downloading the data folder [here](https://www.dropbox.com/home/MI-MM).
+Trained models can be found within `data/models` for MI-MM by downloading the data folder [here](https://www.dropbox.com/sh/5gl70rk7qznw4cs/AAAjJHVQyMB3BHLbVeGOdVo2a?dl=0).
 
 ## Video Features
 
@@ -23,7 +23,7 @@ Each represents a python dictionary containing the 'RGB', 'Flow' and 'Audio' fea
 
 Temporally grouped features (mean/max) can be found in the data folder [here](https://www.dropbox.com/s/bs6y50xkl1rbe20/JPoSE_data.zip?dl=0).
 
-Features extracted using S3D trained on HowTo100M can be found within `data/features` by downloading the data folder [here](https://www.dropbox.com/home/MI-MM).
+Features extracted using S3D trained on HowTo100M can be found within `data/features` by downloading the data folder [here](https://www.dropbox.com/sh/5gl70rk7qznw4cs/AAAjJHVQyMB3BHLbVeGOdVo2a?dl=0).
 
 ## Training and Evaluation
 
