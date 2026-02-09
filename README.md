@@ -2,7 +2,7 @@
 
 Train/Test splits for the Multi-Instance Retrieval Challenge are available [here](https://github.com/epic-kitchens/epic-kitchens-100-annotations/tree/master/retrieval_annotations)
 
-To participate and submit results to the challenge, refer to the [Multi-Instance Retrieval Codalab Challenge](https://codalab.lisn.upsaclay.fr/competitions/617)
+To participate and submit results to the challenge, refer to the [Multi-Instance Retrieval Codabench Challenge](https://www.codabench.org/competitions/12008)
 
 Full information about how to use the jPoSE code can be found [here](https://github.com/mwray/Joint-Part-of-Speech-Embeddings).
 
@@ -27,6 +27,6 @@ Features extracted using S3D trained on HowTo100M can be found within `data/feat
 
 ## Training and Evaluation
 
-Information for training and evaluating models can be found in the [JPoSE repo](https://github.com/mwray/Joint-Part-of-Speech-Embeddings) and [MI-MM repo](https://github.com/adrianofragomeni/MI-MM), including how to generate a submission file for the codalab challenge.
+Information for training and evaluating models can be found in the [JPoSE repo](https://github.com/mwray/Joint-Part-of-Speech-Embeddings) and [MI-MM repo](https://github.com/adrianofragomeni/MI-MM), including how to generate a submission file for the Codabench challenge.
 
 
